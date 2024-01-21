@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://da8inon5cmt2r"]
+
+[ext_resource type="FontFile" uid="uid://b230vy86iu2g" path="res://Art/Fonts/olympus.otf" id="1_i8h0c"]
+
+[resource]
+line_spacing = 2.0
+font = ExtResource("1_i8h0c")
+font_size = 9

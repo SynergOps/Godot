@@ -1,0 +1,9 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://1cnb4418rr7"]
+
+[ext_resource type="FontFile" uid="uid://b230vy86iu2g" path="res://Art/Fonts/olympus.otf" id="1_md7c8"]
+
+[resource]
+font = ExtResource("1_md7c8")
+font_size = 20
+outline_size = 4
+outline_color = Color(0, 0, 0, 1)
