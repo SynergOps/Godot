@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Topdown Starter"
+config/name="IEK ALFA: For ever Juniors"
 run/main_scene="res://Scenes/Levels/MainFloor.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 boot_splash/image="res://Art/Icons/icon.png"
